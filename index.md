@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+DISEÑOS VANESA 
 
-You can use the [editor on GitHub](https://github.com/Disenos-Barranco/DisenosBarranco.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PRESENTACION Y TIPOS DE DISEÑOS
+Me llamo Rosa Vanesa Barranco Espinosa, soy de la Ciudad de Mexico, y mi servicio es brindarles diseños sobre las redes sociales o lo que usted guste, tambien si tiene alguna duda o circunstancia puede decirme.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
+
+# Diseño Arquitectonico
+Referente a la arquitectura, este tipo de diseño engloba la creación de construcciones desde la parte visual y se complementa con el diseño de interiores o de espacios.
+
+## Diseño de interiores
+Este es un complemento del diseño arquitectónico. Una gran especialidad que transforma los lugares en los que vivimos o trabajamos. Cada detalle interno de ese edificio, tienda, centro comercial o casa tiene la intervención de un diseñador de interiores o espacios.
+
+### Diseño industrial
+Está presente en los muebles, en las computadoras, en los automóviles y en otra gran variedad de artículos que usamos a diario. Para ver el trabajo de un diseñador industrial basta con ir a una tienda como Ikea o Imaginarium.
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Disenos-Barranco/DisenosBarranco.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
