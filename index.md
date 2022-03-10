@@ -21,13 +21,16 @@ Este es un complemento del diseño arquitectónico. Una gran especialidad que tr
 Está presente en los muebles, en las computadoras, en los automóviles y en otra gran variedad de artículos que usamos a diario. Para ver el trabajo de un diseñador industrial basta con ir a una tienda como Ikea o Imaginarium.
 
 
-**Bold** and _Italic_ and `Code` text
+## Diseños de modas
+
+¿Qué ropa usaré hoy? Esta es la gran incógnita que tiene la mayoría de las mujeres a diario y claro, apuesto que a muchas de ellas les gustaría o ser diseñadoras o tener ropa exclusiva de algún diseñador. Este tipo de diseño se encarga de la creación de los diferentes estilos de las prendas y accesorios de vestir.
+Toda la ropa que usamos fue invención de un diseñador de modas. Esto no se limita a lo textil sino también a los zapatos, accesorios y demás.
 
 
 
-### Jekyll Themes
+### Tenemos trabajadores de todo tipo
 
 
 
-### Support or Contact
+### Puedes contactarnos por via correo
 
