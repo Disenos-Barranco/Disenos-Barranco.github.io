@@ -1,14 +1,10 @@
-DISEÑOS VANESA 
+#### DISEÑOS VANESA 
 
-
+[Pagina pincipal](index.md) [Centro de ayuda](contacto.md)
 
 
 ### PRESENTACION Y TIPOS DE DISEÑOS
 Me llamo Rosa Vanesa Barranco Espinosa, soy de la Ciudad de Mexico, y mi servicio es brindarles diseños sobre las redes sociales o lo que usted guste, tambien si tiene alguna duda o circunstancia puede decirme.
-
-
-
-
 
 
 # Diseño Arquitectonico
