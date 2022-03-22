@@ -11,17 +11,17 @@ Contactanos:
 - 5567171129
 
 Nuestro correo:
-- disenosbarranco18@gmail.com
+- diseñosbarranco18@gmail.com
 
 Correo personal para cualquier duda o aclaracion:
 - vanesabarranco908@gmail.com
 
 
 Instagram:
-- disenos_barranco
+- diseños_barranco
 
 Facebook:
-- disenos.barranco
+- diseños.barranco
 
 Whatsapp:
 ![wa link_6nmyww (2)](https://user-images.githubusercontent.com/101223971/158907069-5e4bfa9a-58a1-4e38-aa02-672200010a7a.png)
@@ -37,6 +37,8 @@ Whatsapp:
   <input type="text" id="name" name="name" value="55 4823 9814"><br>
   <label for name="name"> Tu domicilio:</label><br>
   <input type="text" id="name" name="name" value="Donde vives"><br>
+  <label for="date"> Fecha:</label><br>
+  <inpute type="date" id="date" name="date">
   <input type="submit" value="Enviar">
   </form>
 
