@@ -37,7 +37,7 @@ Whatsapp:
   <input type="text" id="name" name="name" value="55 4823 9814"><br>
   <label for name="name"> Tu domicilio:</label><br>
   <input type="text" id="name" name="name" value="Donde vives"><br>
-  <label for="date"> Fecha:</label><br>
+  <label for="birthday"> Fecha:</label><br>
   <input type="date" id="date" name="date">
   <input type="submit" value="Enviar">
   </form>
