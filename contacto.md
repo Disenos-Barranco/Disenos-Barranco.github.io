@@ -1,6 +1,6 @@
 NUESTRA PAGINA DE CONTACTO 
 
-Tienes problemas en algo espercial, dudas o preguntar sobre algun diseño personalizado, ponte en contacto con notros por medio de los correos y numeros:
+Tienes problemas en como diseñar, dudas o  algun problema en la elaboracion de sitio web, ponte en contacto con nosotros por medio de los correos y numeros:
 
 Contactanos:
 - 5527341990
