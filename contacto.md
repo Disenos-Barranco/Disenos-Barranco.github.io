@@ -1,4 +1,8 @@
-NUESTRA PAGINA DE CONTACTO 
+### NUESTRA PAGINA DE CONTACTO 
+
+
+[Pagina pincipal](index.md) [Centro de ayuda](contacto.md)
+
 
 Tienes problemas en como diseñar, dudas o  algun problema en la elaboracion de sitio web, ponte en contacto con nosotros por medio de los correos y numeros:
 
